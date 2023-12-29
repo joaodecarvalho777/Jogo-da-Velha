@@ -1,2 +1,2 @@
 # Jogo-da-Velha
-Este projecto consiste em um jogo da velha desenvolvido em Java.
+Desenvolvi um jogo da velha simples em Java como parte do meu percurso como desenvolvedor júnior. O jogo oferece uma interface amigável, permitindo que dois jogadores alternem entre "X" e "O" em um tabuleiro 3x3. A lógica do jogo verifica automaticamente quando um jogador vence ou se há um empate. Este projeto básico ajudou-me a solidificar conceitos essenciais de programação Java, oferecendo uma introdução prática ao desenvolvimento de aplicações orientadas a objetos.
